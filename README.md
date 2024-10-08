@@ -2,7 +2,7 @@ We have used struct and slice to store the data.
 No data is being used
 
 
-
+                                      Routes              Functions             Endpoint            Methods
 
                             __________ Get All   --------  getMovies  ---------  /movies     ---------  GET  ------------- |
                             |                                                                                               |
